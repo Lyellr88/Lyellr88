@@ -64,4 +64,8 @@ The products exist, work, and have production users. I handle architecture and d
 
 ---
 
+<a href="https://www.buymeacoffee.com/lyellr88" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+---
+
 *Built from necessity. Tested to production standards. Open to the right collaborators.*
