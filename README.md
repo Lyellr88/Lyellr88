@@ -10,10 +10,10 @@ HVAC sales to 250+ GitHub stars in under a year. I build production-grade AI inf
 
 | Project | Status | What it does |
 |---------|--------|--------------|
-| **[MARM-Systems](https://github.com/Lyellr88/MARM-Systems)** | ⭐ 250+ stars · 40 forks · Production | AI memory infrastructure. MCP server with persistent session management, semantic search, and structured recall. Used in industrial automation and DevOps workflows. *"100% memory accuracy across 46 services. Rating: 9.5/10"* - @joe_nyc, DevOps |
-| **MarketWise AI** | Active · Built on MARM · Back burner | AI marketing assistant with a 5-layer memory system (live session → extractions → compressions → voice profile) that learns communication style over 480+ messages. 50–70% cost reduction via archival and deduplication. Stack: React 18, Next.js 15, PostgreSQL (Neon), Gemini 2.5. |
-| **Universal Data Parser** | Active · Private · 2026 public launch | Forensic-grade extraction with a 3-phase autonomous engine: 75%+ auto-approved, 25% re-audited with temporal context, 2% human review. Hybrid local LLM (Ollama DeepSeek) + cloud embeddings (Gemini). 10–20x throughput via RAM-adaptive batch sizing. Double-key confidence gates reduce hallucinations. |
-| **SysDX** | Active · Open source · (Stage) GUI wrapper 2026 | Windows hardware diagnostics + cache cleanup toolkit. Catches PCIe flapping, TDR patterns, and thermal throttling that resist manual troubleshooting. Cross-validates nvidia-smi, HWiNFO, and Event Viewer. 1,100+ Pester tests. |
+| **[MARM-Systems](https://github.com/Lyellr88/MARM-Systems)** | ⭐ 250+ stars · 40 forks · Production | AI memory infrastructure. MCP server with persistent session management, semantic search, and structured recall. *"100% memory accuracy across 46 services. Rating: 9.5/10"* - @joe_nyc, DevOps |
+| **MarketWise AI** | Active · Built on MARM · Back burner | AI marketing assistant that learns communication style over 480+ messages via a 5-layer memory system. 50–70% cost reduction via archival and deduplication. |
+| **Universal Data Parser** | Active · Private · 2026 public launch | Forensic-grade extraction engine: 75%+ auto-approved, double-key confidence gates, hybrid local LLM + cloud embeddings. 10–20x throughput via RAM-adaptive batching. |
+| **SysDX** | Active · Open source · GUI wrapper 2026 | Windows hardware diagnostics toolkit. Catches PCIe flapping, TDR crashes, and thermal throttling that resist manual troubleshooting. 868+ Pester tests. |
 
 ---
 
