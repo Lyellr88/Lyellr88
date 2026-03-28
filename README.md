@@ -1,6 +1,6 @@
 # Ryan Lyell
 
-**AI Systems Architect** · Michigan, USA
+**Full Stack AI Developer** · Michigan, USA
 
 HVAC sales to 250+ GitHub stars in under a year. I build production-grade AI infrastructure from necessity, not hype. Zero prior coding experience.
 
