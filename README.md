@@ -13,7 +13,7 @@ HVAC sales to 250+ GitHub stars in under a year. I build production-grade AI inf
 | **[MARM-Systems](https://github.com/Lyellr88/MARM-Systems)** | ⭐ 250+ stars · 40 forks · Production | AI memory infrastructure. MCP server with persistent session management, semantic search, and structured recall. Used in industrial automation and DevOps workflows. *"100% memory accuracy across 46 services. Rating: 9.5/10"* - @joe_nyc, DevOps |
 | **MarketWise AI** | Active · Built on MARM · Back burner | AI marketing assistant with a 5-layer memory system (live session → extractions → compressions → voice profile) that learns communication style over 480+ messages. 50–70% cost reduction via archival and deduplication. Stack: React 18, Next.js 15, PostgreSQL (Neon), Gemini 2.5. |
 | **Universal Data Parser** | Active · Private · 2026 public launch | Forensic-grade extraction with a 3-phase autonomous engine: 75%+ auto-approved, 25% re-audited with temporal context, 2% human review. Hybrid local LLM (Ollama DeepSeek) + cloud embeddings (Gemini). 10–20x throughput via RAM-adaptive batch sizing. Double-key confidence gates reduce hallucinations. |
-| **Computer Health Suite** | Active · Open source · (Stage) GUI wrapper 2026 | Windows hardware diagnostics + cache cleanup toolkit. Catches PCIe flapping, TDR patterns, and thermal throttling that resist manual troubleshooting. Cross-validates nvidia-smi, HWiNFO, and Event Viewer. 1,100+ Pester tests. |
+| **SysDX** | Active · Open source · (Stage) GUI wrapper 2026 | Windows hardware diagnostics + cache cleanup toolkit. Catches PCIe flapping, TDR patterns, and thermal throttling that resist manual troubleshooting. Cross-validates nvidia-smi, HWiNFO, and Event Viewer. 1,100+ Pester tests. |
 
 ---
 
@@ -37,9 +37,9 @@ The products exist, work, and have production users. I handle architecture and d
 
 - Revenue share + equity
 - Remote
-- No vague "let's explore" - I'm building toward a GUI wrapper pairing the Computer Health Suite and a public launch of the Parser in 2026
+- No vague "let's explore" - I'm building toward a GUI wrapper pairing SysDX and a public launch of the Parser in 2026
 
-**Developers** - MARM-Systems (active) and the Computer Health Suite (coming soon). PRs and issues welcome. If you're debugging Windows hardware or building AI memory tooling, there's real infrastructure here to build on.
+**Developers** - MARM-Systems (active) and SysDX (coming soon) are open. PRs and issues welcome. If you're debugging Windows hardware or building AI memory tooling, there's real infrastructure here to build on.
 
 ---
 
@@ -50,7 +50,7 @@ The products exist, work, and have production users. I handle architecture and d
 - **Databases:** PostgreSQL · SQLite (sqlite-vec) · Firebase Firestore · pgvector (768/3072-dim embeddings)  
 - **AI/ML:** Gemini API · Ollama (local LLM) · DeepSeek-Coder-V2 · sentence-transformers · MCP protocol (18-tool) · Self-learning filter pipelines · Dual-tier model routing  
 - **Hardware/Systems:** nvidia-smi · HWiNFO · smartctl · GPU-Z · CPU-Z · CIM/WMI · Windows Event Log · Shared memory APIs · SMART protocol · PCIe telemetry  
-- **Testing:** Pester v5 · pytest · Vitest · Jest · PSScriptAnalyzer · Adversarial test design · Live integration testing (real hardware, real DB, real AI — minimal mocking across all projects)  
+- **Testing:** Pester v5 · Sonarqube · pytest · Vitest · Jest · PSScriptAnalyzer · Adversarial test design · Live integration testing (real hardware, real DB, real AI — minimal mocking across all projects)  
 - **Infrastructure:** Docker · GitHub Actions CI/CD (PyPI + Docker Hub + MCP Registry) · Vercel · Stripe · Firebase Auth · OAuth · Authenticode code signing  
 - **Specializations:** Memory systems · Forensic data validation · Windows internals · Modular architecture · Systematic debugging · Cost optimization  
 
@@ -61,10 +61,6 @@ The products exist, work, and have production users. I handle architecture and d
 - **Email:** ryanlyell@marmsystems.com
 - **LinkedIn:** [linkedin.com/in/ryanlyell](https://linkedin.com/in/ryanlyell)
 - **Location:** Michigan, USA
-
----
-
-<a href="https://www.buymeacoffee.com/lyellr88" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ---
 
