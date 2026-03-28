@@ -13,7 +13,7 @@ HVAC sales to 250+ GitHub stars in under a year. I build production-grade AI inf
 | **[MARM-Systems](https://github.com/Lyellr88/MARM-Systems)** | ⭐ 250+ stars · 40 forks · Production | AI memory infrastructure. MCP server with persistent session management, semantic search, and structured recall. *"100% memory accuracy across 46 services. Rating: 9.5/10"* - @joe_nyc, DevOps |
 | **MarketWise AI** | Active · Built on MARM · Back burner | AI marketing assistant that learns communication style over 480+ messages via a 5-layer memory system. 50–70% cost reduction via archival and deduplication. |
 | **Universal Data Parser** | Active · Private · 2026 public launch | Forensic-grade extraction engine: 75%+ auto-approved, double-key confidence gates, hybrid local LLM + cloud embeddings. 10–20x throughput via RAM-adaptive batching. |
-| **SysDX** | Active · Open source · GUI wrapper 2026 | Windows hardware diagnostics toolkit. Catches PCIe flapping, TDR crashes, and thermal throttling that resist manual troubleshooting. 868+ Pester tests. |
+| **SysDX** | Active · Open source · 2026 public launch | Windows hardware diagnostics toolkit. Catches PCIe flapping, TDR crashes, and thermal throttling that resist manual troubleshooting. 868+ Pester tests. |
 
 ---
 
