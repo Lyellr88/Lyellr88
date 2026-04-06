@@ -2,7 +2,18 @@
 
 **Full Stack AI Developer** · Michigan, USA
 
-HVAC sales to 250+ GitHub stars in under a year. I build production-grade AI infrastructure from necessity, not hype. Zero prior coding experience.
+HVAC sales to 250+ GitHub stars in under a year. I build AI infrastructure to solve problems I actually have. 
+
+## Tech Stack
+
+- **Languages:** PowerShell · Python · JavaScript · TypeScript · C# · Rust (in progress) · HTML/CSS · SQL  
+- **Frameworks:** React 18/19 · Next.js 15 · FastAPI · Node.js · Tailwind CSS · Genkit · Pydantic v2 · Prisma ORM · NLP.js  
+- **Databases:** PostgreSQL · SQLite (sqlite-vec) · Firebase Firestore · pgvector (768/3072-dim embeddings)  
+- **AI/ML:** Gemini API · Ollama (local LLM) · DeepSeek-Coder-V2 · sentence-transformers · MCP protocol (18-tool) · Self-learning filter pipelines · Dual-tier model routing  
+- **Hardware/Systems:** nvidia-smi · HWiNFO · smartctl · GPU-Z · CPU-Z · CIM/WMI · Windows Event Log · Shared memory APIs · SMART protocol · PCIe telemetry  
+- **Testing:** Pester v5 · Sonarqube · pytest · Vitest · Jest · PSScriptAnalyzer · Adversarial test design · Live integration testing (real hardware, real DB, real AI — minimal mocking across all projects)  
+- **Infrastructure:** Docker · GitHub Actions CI/CD (PyPI + Docker Hub + MCP Registry) · Vercel · Stripe · Firebase Auth · OAuth · Authenticode code signing  
+- **Specializations:** Memory systems · Forensic data validation · Windows internals · Modular architecture · Systematic debugging · Cost optimization 
 
 ---
 
@@ -23,11 +34,11 @@ HVAC sales to 250+ GitHub stars in under a year. I build production-grade AI inf
 
 I treat AI as a partner, not an autonomous agent.
 
-**I architect. AI implements. I validate. AI accelerates.**
+**I architect and AI implements. I validate and AI accelerates.**
 
-Current models are exceptional pattern matchers and they write code faster than any human, but they don't identify root causes, catch constraint violations, or own the architecture. That's my job. Every system I ship, I understand completely and can debug independently.
+Current models are exceptional pattern matchers that write code faster than any human, but they don't identify root causes, catch constraint violations, or own the architecture. Every system I ship I understand completely and can debug independently, because the moment you stop being able to explain your own code is the moment you've handed over the wheel to something that doesn't understand consequences.
 
-This isn't a workflow tip. It's the only approach that compounds understanding instead of compounding confusion. Every project here reflects it: adversarial test suites, forensic validation layers, no mystery code.
+This isn't a workflow tip. It's the only approach that compounds understanding instead of compounding confusion, and every project here reflects it: adversarial test suites, forensic validation layers, no mystery code.
 
 ---
 
@@ -40,21 +51,9 @@ The products exist, work, and have production users. I handle architecture and d
 - Revenue share + equity
 - Remote
 - No vague "let's explore" - I'm building toward a GUI wrapper pairing SysDX and a public launch of the Parser in 2026
+- Ideas and criticism are welcome
 
 **Developers** - MARM-Systems (active) and SysDX (coming soon) are open. PRs and issues welcome. If you're debugging Windows hardware or building AI memory tooling, there's real infrastructure here to build on.
-
----
-
-## Tech Stack
-
-- **Languages:** PowerShell · Python · JavaScript · TypeScript · C# · Rust (in progress) · HTML/CSS · SQL  
-- **Frameworks:** React 18/19 · Next.js 15 · FastAPI · Node.js · Tailwind CSS · Genkit · Pydantic v2 · Prisma ORM · NLP.js  
-- **Databases:** PostgreSQL · SQLite (sqlite-vec) · Firebase Firestore · pgvector (768/3072-dim embeddings)  
-- **AI/ML:** Gemini API · Ollama (local LLM) · DeepSeek-Coder-V2 · sentence-transformers · MCP protocol (18-tool) · Self-learning filter pipelines · Dual-tier model routing  
-- **Hardware/Systems:** nvidia-smi · HWiNFO · smartctl · GPU-Z · CPU-Z · CIM/WMI · Windows Event Log · Shared memory APIs · SMART protocol · PCIe telemetry  
-- **Testing:** Pester v5 · Sonarqube · pytest · Vitest · Jest · PSScriptAnalyzer · Adversarial test design · Live integration testing (real hardware, real DB, real AI — minimal mocking across all projects)  
-- **Infrastructure:** Docker · GitHub Actions CI/CD (PyPI + Docker Hub + MCP Registry) · Vercel · Stripe · Firebase Auth · OAuth · Authenticode code signing  
-- **Specializations:** Memory systems · Forensic data validation · Windows internals · Modular architecture · Systematic debugging · Cost optimization  
 
 ---
 
@@ -63,7 +62,4 @@ The products exist, work, and have production users. I handle architecture and d
 - **Email:** ryanlyell@marmsystems.com
 - **LinkedIn:** [linkedin.com/in/ryanlyell](https://linkedin.com/in/ryanlyell)
 - **Location:** Michigan, USA
-
----
-
-*Built from necessity. Tested to production standards. Open to the right collaborators.*
+  
