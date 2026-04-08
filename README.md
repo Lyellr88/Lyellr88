@@ -17,7 +17,7 @@ HVAC sales to 250+ GitHub stars in under a year. I build AI infrastructure to so
 
 ---
 
-## What I'm Shipping
+## Projects
 
 | Project | Status | What it does |
 |---------|--------|--------------|
@@ -27,18 +27,6 @@ HVAC sales to 250+ GitHub stars in under a year. I build AI infrastructure to so
 | **Universal Data Parser** | Active · Private · 2026 public launch | Forensic-grade extraction engine: 75%+ auto-approved, double-key confidence gates, hybrid local LLM + cloud embeddings. 10–20x throughput via RAM-adaptive batching. |
 | **SysDX** | Active · Open source · 2026 public launch | Windows hardware diagnostics toolkit. Catches PCIe flapping, TDR crashes, and thermal throttling that resist manual troubleshooting. 868+ Pester tests. |
 
-
----
-
-## How I Build
-
-I treat AI as a partner, not an autonomous agent.
-
-**I architect and AI implements. I validate and AI accelerates.**
-
-Current models are exceptional pattern matchers that write code faster than any human, but they don't identify root causes, catch constraint violations, or own the architecture. Every system I ship I understand completely and can debug independently, because the moment you stop being able to explain your own code is the moment you've handed over the wheel to something that doesn't understand consequences.
-
-This isn't a workflow tip. It's the only approach that compounds understanding instead of compounding confusion, and every project here reflects it: adversarial test suites, forensic validation layers, no mystery code.
 
 ---
 
