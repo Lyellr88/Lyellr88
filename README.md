@@ -1,8 +1,6 @@
 # Ryan Lyell - **Full Stack AI Developer** · Michigan, USA 
 
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="50%" />
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ryanlyell) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Alone-Biscotti6145) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryanlyell@marmsystems.com) 
