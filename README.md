@@ -1,12 +1,5 @@
 # Ryan Lyell
 
-**whatsapp-scheduler**
-[![npm updates](https://img.shields.io/npm/v/whatsapp-scheduler.svg?style=flat-square&color=cb3837)](https://www.npmjs.com/package/whatsapp-scheduler)
-
-**MARM-Systems**
-[![pip install](https://img.shields.io/badge/pip%20install-marm--mcp--server-blue)](https://pypi.org/project/marm-mcp-server/)
-[![MCP Registry](https://img.shields.io/badge/MCP%20Registry-LIVE-blue)](https://registry.modelcontextprotocol.io/?q=marm-mcp)
-
 **Full Stack AI Developer** · Michigan, USA
 
 HVAC sales to 250+ GitHub stars in under a year. I build AI infrastructure to solve problems I actually have. 
