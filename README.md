@@ -22,20 +22,10 @@
 ![](https://github-readme-stats.shion.dev/api?username=lyellr88&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
 
-## 👀 Looking For
+## 👀 Looking For Marketing Partner
 
-### Co-Founder (Marketing/Growth)
-
-The infrastructure exists, works, and has active production users. I handle architecture and full-stack development end-to-end. You own distribution, strategic partnerships, or security hardening—whichever matches your deepest strengths. 
-
-If you are a builder who hates vaporware and wants a technical partner who ships clean, stable code daily, let's talk.
-
-* **The Deal:** Revenue share + equity split.
-* **The Vibe:** 100% Remote, high-autonomy, execution-first.
-* **The No-BS Filter:** No vague "let's explore" coffee chats. I am currently building toward a combined GUI wrapper pairing SysDX with a massive public launch of the Universal Data Parser later in 2026. 
-* **The Dynamic:** Ideas, brutal criticism, and tactical disagreements are welcome. Complacency isn't.
+I build production-grade infrastructure end-to-end, a track record backed by 290+ stars on MARM-Systems and over 1,000 commits this past year. My execution workflow is fast, disciplined, and focused entirely on shipping clean, local-first code to the terminal. I am currently driving toward a unified desktop GUI pairing SysDX with a major public launch of the Universal Data Parser later in 2026. I am looking for a sharp marketing and growth partner who owns distribution and strategic partnerships with the same intensity. If you hate vaporware, value absolute autonomy, and want to build real software with a technical partner who delivers daily, let's connect.
 
 ### 💻 Developers
-MARM-Systems and SysDX are open ecosystem playgrounds. Pull requests and issue critiques are always welcome. If you are debugging deep Windows hardware faults or architecting persistent AI memory layers, there is real, production-ready infrastructure here for you to build on.  
+MARM-Systems and SysDX are open ecosystem playgrounds. Pull requests and issue critiques are always welcome. If you are debugging deep Windows hardware faults or architecting persistent AI memory layers, there is real, production-ready infrastructure here for you to build on.
