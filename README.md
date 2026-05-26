@@ -18,8 +18,8 @@
 | **[buddy-mcp](https://github.com/Lyellr88/buddy-mcp)** | Archived · npm published | Gacha companion system for Claude Code. Roll for a rare buddy, patch it directly into the binary, collect 'em all. Legendary drop rates apply. |
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=lyellr88&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://streak-stats.demolab.com/?user=lyellr88&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=lyellr88&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ## 👀 Looking For Marketing Partner
