@@ -1,16 +1,23 @@
 # Ryan Lyell
 
+**whatsapp-scheduler**
+[![npm updates](https://img.shields.io/npm/v/whatsapp-scheduler.svg?style=flat-square&color=cb3837)](https://www.npmjs.com/package/whatsapp-scheduler)
+
+**MARM-Systems**
+[![pip install](https://img.shields.io/badge/pip%20install-marm--mcp--server-blue)](https://pypi.org/project/marm-mcp-server/)
+[![MCP Registry](https://img.shields.io/badge/MCP%20Registry-LIVE-blue)](https://registry.modelcontextprotocol.io/?q=marm-mcp)
+
 **Full Stack AI Developer** · Michigan, USA
 
 HVAC sales to 250+ GitHub stars in under a year. I build AI infrastructure to solve problems I actually have. 
 
 ## Tech Stack
 
-- **Languages:** PowerShell · Python · JavaScript · TypeScript · C# · Rust (in progress) · HTML/CSS · SQL  
+- **Languages:** PowerShell · Python · JavaScript · TypeScript · C# · Rust · HTML/CSS · SQL  
 - **Frameworks:** React 18/19 · Next.js 15 · FastAPI · Node.js · Tailwind CSS · Genkit · Pydantic v2 · Prisma ORM · NLP.js  
 - **Databases:** PostgreSQL · SQLite (sqlite-vec) · Firebase Firestore · pgvector (768/3072-dim embeddings)  
 - **AI/ML:** Gemini API · Ollama (local LLM) · DeepSeek-Coder-V2 · sentence-transformers · MCP protocol (18-tool) · Self-learning filter pipelines · Dual-tier model routing  
-- **Hardware/Systems:** nvidia-smi · HWiNFO · smartctl · GPU-Z · CPU-Z · CIM/WMI · Windows Event Log · Shared memory APIs · SMART protocol · PCIe telemetry  
+- **Hardware/Systems:** nvidia-smi · HWiNFO · smartctl · GPU-Z · CPU-Z · CIM/WMI · Windows Event Log · Shared memory APIs · SMART protocol · PCIe telemetry  - Windows Task Scheduler (schtasks)
 - **Testing:** Pester v5 · Sonarqube · pytest · Vitest · Jest · PSScriptAnalyzer · Adversarial test design · Live integration testing (real hardware, real DB, real AI — minimal mocking across all projects)  
 - **Infrastructure:** Docker · GitHub Actions CI/CD (PyPI + Docker Hub + MCP Registry) · Vercel · Stripe · Firebase Auth · OAuth · Authenticode code signing  
 - **Specializations:** Memory systems · Forensic data validation · Windows internals · Modular architecture · Systematic debugging · Cost optimization 
@@ -21,27 +28,30 @@ HVAC sales to 250+ GitHub stars in under a year. I build AI infrastructure to so
 
 | Project | Status | What it does |
 |---------|--------|--------------|
-| **[MARM-Systems](https://github.com/Lyellr88/MARM-Systems)** | ⭐ 250+ stars · 40 forks · Production | AI memory infrastructure. MCP server with persistent session management, semantic search, and structured recall. *"100% memory accuracy across 46 services. Rating: 9.5/10"* - @joe_nyc, DevOps |
-| **[buddy-mcp](https://github.com/Lyellr88/buddy-mcp)** | Archived · npm published | Gacha companion system for Claude Code. Roll for a rare buddy, patch it directly into the binary, collect 'em all. Legendary drop rates apply. |
-| **MarketWise AI** | Active · Built on MARM · Back burner | AI marketing assistant that learns communication style over 480+ messages via a 5-layer memory system. 50–70% cost reduction via archival and deduplication. |
+| **[MARM-Systems](https://github.com/Lyellr88/MARM-Systems)** | ⭐ 290+ stars · 50+ forks · Production | AI memory infrastructure. MCP server with persistent session management, semantic search, and structured recall. *"100% memory accuracy across 46 services. Rating: 9.5/10"* - @joe_nyc, DevOps |
+| **[whatsapp-scheduler](https://github.com/Lyellr88/whatsapp-scheduler)** | Active · Open source · npm published | Zero-cloud Windows CLI/TUI tool to schedule and batch-send WhatsApp messages with attachments. Features smartphone resolution, zero-idle OS footprint, and auto-shutdown. |
 | **Universal Data Parser** | Active · Private · 2026 public launch | Forensic-grade extraction engine: 75%+ auto-approved, double-key confidence gates, hybrid local LLM + cloud embeddings. 10–20x throughput via RAM-adaptive batching. |
 | **SysDX** | Active · Open source · 2026 public launch | Windows hardware diagnostics toolkit. Catches PCIe flapping, TDR crashes, and thermal throttling that resist manual troubleshooting. 868+ Pester tests. |
+| **[buddy-mcp](https://github.com/Lyellr88/buddy-mcp)** | Archived · npm published | Gacha companion system for Claude Code. Roll for a rare buddy, patch it directly into the binary, collect 'em all. Legendary drop rates apply. |
 
 
 ---
 
 ## Looking For
 
-**Co-founder - Marketing or Security focus**
+### 🤝 Co-Founder (Marketing/Growth)
 
-The products exist, work, and have production users. I handle architecture and development end-to-end. You own distribution, partnerships, or security hardening; whichever is your strength.
+The infrastructure exists, works, and has active production users. I handle architecture and full-stack development end-to-end. You own distribution, strategic partnerships, or security hardening—whichever matches your deepest strengths. 
 
-- Revenue share + equity
-- Remote
-- No vague "let's explore" - I'm building toward a GUI wrapper pairing SysDX and a public launch of the Parser in 2026
-- Ideas and criticism are welcome
+If you are a builder who hates vaporware and wants a technical partner who ships clean, stable code daily, let's talk.
 
-**Developers** - MARM-Systems (active) and SysDX (coming soon) are open. PRs and issues welcome. If you're debugging Windows hardware or building AI memory tooling, there's real infrastructure here to build on.
+* **The Deal:** Revenue share + equity split.
+* **The Vibe:** 100% Remote, high-autonomy, execution-first.
+* **The No-BS Filter:** No vague "let's explore" coffee chats. I am currently building toward a combined GUI wrapper pairing SysDX with a massive public launch of the Universal Data Parser later in 2026. 
+* **The Dynamic:** Ideas, brutal criticism, and tactical disagreements are welcome. Complacency isn't.
+
+### 💻 Developers
+MARM-Systems and SysDX are open ecosystem playgrounds. Pull requests and issue critiques are always welcome. If you are debugging deep Windows hardware faults or architecting persistent AI memory layers, there is real, production-ready infrastructure here for you to build on.
 
 ---
 
