@@ -20,7 +20,3 @@
 ## 📊 GitHub Stats
 ![](https://streak-stats.demolab.com/?user=lyellr88&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=lyellr88&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-## 👀 Looking For Marketing Partner
-I build production-grade infrastructure end-to-end, a track record backed by 290+ stars on MARM-Systems and over 1,000 commits this past year. My execution workflow is fast, disciplined, and focused entirely on shipping clean, local-first code to the terminal. I am currently driving toward a unified desktop GUI pairing SysDX with a major public launch of the Universal Data Parser later in 2026. I am looking for a sharp marketing and growth partner who owns distribution and strategic partnerships with the same intensity. If you hate vaporware, value absolute autonomy, and want to build real software with a technical partner who delivers daily, let's connect.
