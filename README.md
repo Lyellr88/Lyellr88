@@ -1,4 +1,4 @@
-# Ryan Lyell - **Full Stack AI Developer** · Michigan, USA 
+# Ryan Lyell - **AI Developer** · Michigan, USA 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -11,9 +11,9 @@
 ## 📁 Projects
 | Project | Status | What it does |
 |---------|--------|--------------|
-| **[MARM-Systems](https://github.com/Lyellr88/MARM-Systems)** | ⭐ 290+ stars · 50+ forks · Production | AI memory infrastructure. MCP server with persistent session management, semantic search, and structured recall. *"100% memory accuracy across 46 services. Rating: 9.5/10"* - @joe_nyc, DevOps |
-| **[whatsapp-scheduler](https://github.com/Lyellr88/whatsapp-scheduler)** | Active · Open source · npm published | Zero-cloud Windows CLI/TUI tool to schedule and batch-send WhatsApp messages with attachments. Features smartphone resolution, zero-idle OS footprint, and auto-shutdown. |
-| **Universal Data Parser** | Active · Private · 2026 public launch | Forensic-grade extraction engine: 75%+ auto-approved, double-key confidence gates, hybrid local LLM + cloud embeddings. 10–20x throughput via RAM-adaptive batching. |
+| **[MARM-Systems](https://github.com/Lyellr88/MARM-Systems)** | ⭐ 360+ stars · 60+ forks · Production | AI memory infrastructure. MCP server with persistent session management, semantic search, and structured recall. *"100% memory accuracy across 46 services. Rating: 9.5/10"* - @joe_nyc, DevOps |
+| **[whatsapp-scheduler](https://github.com/Lyellr88/whatsapp-scheduler)** | Active · Open source · npm published | Windows CLI/TUI tool to schedule and batch-send WhatsApp messages with attachments. Features smartphone resolution, zero-idle OS footprint, and auto-shutdown locally, no cloud. |
+| **[sidenote](https://github.com/Lyellr88/sidenote)** | Active - Open Source | Zero-friction todo overlay for your terminal. Built for ADHD developers who need to catch thoughts before they vanish.
 | **SysDX** | Active · Open source · 2026 public launch | Windows hardware diagnostics toolkit. Catches PCIe flapping, TDR crashes, and thermal throttling that resist manual troubleshooting. 868+ Pester tests. |
 | **[buddy-mcp](https://github.com/Lyellr88/buddy-mcp)** | Archived · npm published | Gacha companion system for Claude Code. Roll for a rare buddy, patch it directly into the binary, collect 'em all. Legendary drop rates apply. |
 
