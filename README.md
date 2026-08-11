@@ -11,7 +11,7 @@
 ## 📁 Projects
 | Project | Status | What it does |
 |---------|--------|--------------|
-| **[MARM-Systems](https://github.com/Lyellr88/MARM-Systems)** | ⭐ 360+ stars · 60+ forks · Production | AI memory infrastructure. MCP server with persistent session management, semantic search, and structured recall. *"100% memory accuracy across 46 services. Rating: 9.5/10"* - @joe_nyc, DevOps |
+| **[marm-memory](https://github.com/Lyellr88/marm-memory)** | ⭐ 360+ stars · 60+ forks · Production | AI memory infrastructure. MCP server with persistent session management, semantic search, and structured recall. *"100% memory accuracy across 46 services. Rating: 9.5/10"* - @joe_nyc, DevOps |
 | **[whatsapp-scheduler](https://github.com/Lyellr88/whatsapp-scheduler)** | Active · Open source · npm published | Windows CLI/TUI tool to schedule and batch-send WhatsApp messages with attachments. Features smartphone resolution, zero-idle OS footprint, and auto-shutdown locally, no cloud. |
 | **[sidenote](https://github.com/Lyellr88/sidenote)** | Active - Open Source | Zero-friction todo overlay for your terminal. Built for ADHD developers who need to catch thoughts before they vanish.
 | **SysDX** | Active · Open source · 2026 public launch | Windows hardware diagnostics toolkit. Catches PCIe flapping, TDR crashes, and thermal throttling that resist manual troubleshooting. 868+ Pester tests. |
