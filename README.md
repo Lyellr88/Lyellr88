@@ -16,7 +16,3 @@
 | **[sidenote](https://github.com/Lyellr88/sidenote)** | Active - Open Source | Zero-friction todo overlay for your terminal. Built for ADHD developers who need to catch thoughts before they vanish.
 | **SysDX** | Active · Open source · 2026 public launch | Windows hardware diagnostics toolkit. Catches PCIe flapping, TDR crashes, and thermal throttling that resist manual troubleshooting. 868+ Pester tests. |
 | **[buddy-mcp](https://github.com/Lyellr88/buddy-mcp)** | Archived · npm published | Gacha companion system for Claude Code. Roll for a rare buddy, patch it directly into the binary, collect 'em all. Legendary drop rates apply. |
-
-## 📊 GitHub Stats
-![](https://streak-stats.demolab.com/?user=lyellr88&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lyellr88&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
